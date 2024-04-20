@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p> I am a novice backend developer.</p>
 <p>I am currently undergoing training on the Hexlet platform.
-There is also an unfinished higher technical education at Novosibirsk State Agrarian University</p>
+<br>There is also an unfinished higher technical education at Novosibirsk State Agrarian University</p>
 
 
 <!--
