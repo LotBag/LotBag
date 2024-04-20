@@ -1,7 +1,7 @@
 ### Hi there 👋
  I am a novice backend developer!
 ## My education.
-I am currently undergoing training on the Hexlet platform.
+I am currently undergoing training on the [Hexlet](https://ru.hexlet.io/) platform.  
 There is also an unfinished higher technical education at Novosibirsk State Agrarian University
 
 
