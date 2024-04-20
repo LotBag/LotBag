@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<p> I am a novice backend developer.</p>
+<p>I am currently undergoing training on the [Hexlet](https://ru.hexlet.io/) platform.</p>
 <!--
 **LotBag/LotBag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
