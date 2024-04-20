@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p> I am a novice backend developer!</p>
-### My education.
+## My education.
 <p>I am currently undergoing training on the Hexlet platform.
 <br>There is also an unfinished higher technical education at Novosibirsk State Agrarian University</p>
 
