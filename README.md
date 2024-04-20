@@ -3,6 +3,8 @@
 ## My education.
 I am currently undergoing training on the [Hexlet](https://ru.hexlet.io/) platform.  
 There is also an unfinished higher technical education at Novosibirsk State Agrarian University
+## My tech stack
+Java
 
 
 <!--
