@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p> I am a novice backend developer.</p>
-<p>I am currently undergoing training on the [Hexlet](https://ru.hexlet.io) [Skillbox Media](https://skillbox.ru/media/) platform.</p>
+I am currently undergoing training on the [Hexlet](https://ru.hexlet.io) [Skillbox Media](https://skillbox.ru/media/) platform.
 
 
 <!--
