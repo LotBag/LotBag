@@ -1,6 +1,7 @@
 ### Hi there 👋
 <p> I am a novice backend developer.</p>
-I am currently undergoing training on the [Hexlet](https://ru.hexlet.io) [Skillbox Media](https://skillbox.ru/media/) platform.
+<p>I am currently undergoing training on the Hexlet platform.
+There is also an unfinished higher technical education at Novosibirsk State Agrarian University</p>
 
 
 <!--
