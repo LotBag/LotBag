@@ -1,5 +1,5 @@
 ### Hi there 👋
- I am a novice backend developer!
+ I am a novice QA Engenere!
  
 ## My education.
 I am currently undergoing training on the [Hexlet](https://ru.hexlet.io/) platform.  
